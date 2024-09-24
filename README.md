@@ -1,4 +1,4 @@
-<h1> 3D Offline Railway Station Navigator Web App {SIH} </h1>
+<h1> 3D Railway Station Navigator Web App {SIH} </h1>
 
 
 DEMO LINK: 
