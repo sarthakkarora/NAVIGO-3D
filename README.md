@@ -1,5 +1,6 @@
 <h1> 3D Railway Station Navigator Web App {SIH} </h1>
 
+The 3D Railway Station Navigator offers immersive, high-definition 3D maps and personalized AR guidance to navigate users through complex environments. With features like 3D pathfinding, virtual tours, and IPS for real-time location tracking, it provides seamless and interactive wayfinding experiences.
 
 DEMO LINK: 
 https://sketchfab.com/3d-models/railway-station-assets-with-train-interior-d7507a38a7234fc7b69c282f1f0e1157
