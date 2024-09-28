@@ -7,9 +7,6 @@ The 3D Railway Station Navigator offers immersive, high-definition 3D maps and p
 ![Screenshot 2024-09-28 at 10 58 15 PM](https://github.com/user-attachments/assets/1007ebdd-af2e-4d7f-b774-6470d08e727b)
 
 
-DEMO LINK: 
-https://sketchfab.com/3d-models/railway-station-assets-with-train-interior-d7507a38a7234fc7b69c282f1f0e1157
-
 ![Screenshot 2024-09-28 at 11 01 24 PM](https://github.com/user-attachments/assets/3f4f04fa-78ab-4665-a1bc-c3e1f69b46fc)
 
 
